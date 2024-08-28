@@ -1,0 +1,1684 @@
+[
+    {
+      "productName": "Bluetooth 11",
+      "price": 846,
+      "rating": 4.95,
+      "discount": 97,
+      "availability": "yes"
+    },
+    {
+      "productName": "Bluetooth 7",
+      "price": 1088,
+      "rating": 4.74,
+      "discount": 37,
+      "availability": "yes"
+    },
+    {
+      "productName": "Bluetooth 9",
+      "price": 6581,
+      "rating": 4.32,
+      "discount": 44,
+      "availability": "yes"
+    },
+    {
+      "productName": "Bluetooth 7",
+      "price": 8721,
+      "rating": 3.85,
+      "discount": 67,
+      "availability": "yes"
+    },
+    {
+      "productName": "Bluetooth 10",
+      "price": 5964,
+      "rating": 3.82,
+      "discount": 65,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 4",
+      "price": 3747,
+      "rating": 3.75,
+      "discount": 17,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 14",
+      "price": 5070,
+      "rating": 3.43,
+      "discount": 96,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 8",
+      "price": 5493,
+      "rating": 3.42,
+      "discount": 76,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 6",
+      "price": 111,
+      "rating": 3.27,
+      "discount": 18,
+      "availability": "yes"
+    },
+    {
+      "productName": "Bluetooth 6",
+      "price": 1949,
+      "rating": 2.88,
+      "discount": 0,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 1",
+      "price": 399,
+      "rating": 2.58,
+      "discount": 14,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 7",
+      "price": 5707,
+      "rating": 2.23,
+      "discount": 89,
+      "availability": "yes"
+    },
+    {
+      "productName": "Bluetooth 12",
+      "price": 4264,
+      "rating": 1.94,
+      "discount": 36,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 3",
+      "price": 8615,
+      "rating": 0.8,
+      "discount": 1,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Bluetooth 15",
+      "price": 7739,
+      "rating": 0.08,
+      "discount": 82,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 1",
+      "price": 4955,
+      "rating": 4.45,
+      "discount": 14,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 11",
+      "price": 7019,
+      "rating": 3.81,
+      "discount": 43,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Keypad 9",
+      "price": 5792,
+      "rating": 3.74,
+      "discount": 97,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 7",
+      "price": 7253,
+      "rating": 3.59,
+      "discount": 58,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Keypad 8",
+      "price": 998,
+      "rating": 3.51,
+      "discount": 61,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 3",
+      "price": 383,
+      "rating": 3.42,
+      "discount": 20,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 13",
+      "price": 7816,
+      "rating": 2.62,
+      "discount": 81,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Keypad 11",
+      "price": 7262,
+      "rating": 2.58,
+      "discount": 13,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 14",
+      "price": 8882,
+      "rating": 2.48,
+      "discount": 82,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 12",
+      "price": 572,
+      "rating": 2.34,
+      "discount": 59,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 8",
+      "price": 9958,
+      "rating": 2.14,
+      "discount": 43,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 15",
+      "price": 2236,
+      "rating": 2.06,
+      "discount": 20,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Keypad 5",
+      "price": 5794,
+      "rating": 0.27,
+      "discount": 7,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 15",
+      "price": 8947,
+      "rating": 0.24,
+      "discount": 84,
+      "availability": "yes"
+    },
+    {
+      "productName": "Keypad 1",
+      "price": 7873,
+      "rating": 0.05,
+      "discount": 18,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 5",
+      "price": 4226,
+      "rating": 4.4,
+      "discount": 63,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 10",
+      "price": 407,
+      "rating": 4.28,
+      "discount": 41,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 10",
+      "price": 7399,
+      "rating": 3.76,
+      "discount": 40,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 6",
+      "price": 1805,
+      "rating": 3.64,
+      "discount": 5,
+      "availability": "yes"
+    },
+    {
+      "productName": "Mouse 11",
+      "price": 4878,
+      "rating": 3.34,
+      "discount": 33,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 5",
+      "price": 7162,
+      "rating": 3.28,
+      "discount": 91,
+      "availability": "yes"
+    },
+    {
+      "productName": "Mouse 13",
+      "price": 5103,
+      "rating": 3.1,
+      "discount": 28,
+      "availability": "yes"
+    },
+    {
+      "productName": "Mouse 10",
+      "price": 9260,
+      "rating": 3.05,
+      "discount": 97,
+      "availability": "yes"
+    },
+    {
+      "productName": "Mouse 10",
+      "price": 4430,
+      "rating": 2.5,
+      "discount": 46,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 8",
+      "price": 4711,
+      "rating": 2.06,
+      "discount": 55,
+      "availability": "yes"
+    },
+    {
+      "productName": "Mouse 1",
+      "price": 3356,
+      "rating": 1.97,
+      "discount": 59,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 3",
+      "price": 284,
+      "rating": 1.31,
+      "discount": 63,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 7",
+      "price": 3371,
+      "rating": 0.91,
+      "discount": 86,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Mouse 10",
+      "price": 5600,
+      "rating": 0.27,
+      "discount": 16,
+      "availability": "yes"
+    },
+    {
+      "productName": "Mouse 15",
+      "price": 3821,
+      "rating": 0.02,
+      "discount": 89,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 4",
+      "price": 7756,
+      "rating": 4.78,
+      "discount": 45,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 6",
+      "price": 9952,
+      "rating": 4.36,
+      "discount": 78,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 1",
+      "price": 8604,
+      "rating": 4.15,
+      "discount": 69,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 8",
+      "price": 7607,
+      "rating": 4.1,
+      "discount": 73,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 2",
+      "price": 1336,
+      "rating": 4.01,
+      "discount": 28,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 7",
+      "price": 1764,
+      "rating": 3.78,
+      "discount": 13,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 8",
+      "price": 6597,
+      "rating": 3.75,
+      "discount": 41,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Charger 13",
+      "price": 2652,
+      "rating": 3.24,
+      "discount": 33,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 13",
+      "price": 4236,
+      "rating": 2.98,
+      "discount": 12,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Charger 2",
+      "price": 3047,
+      "rating": 1.54,
+      "discount": 31,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 2",
+      "price": 6751,
+      "rating": 0.81,
+      "discount": 32,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Charger 14",
+      "price": 1171,
+      "rating": 0.8,
+      "discount": 23,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Charger 6",
+      "price": 387,
+      "rating": 0.57,
+      "discount": 37,
+      "availability": "yes"
+    },
+    {
+      "productName": "Charger 2",
+      "price": 8797,
+      "rating": 0.45,
+      "discount": 81,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Charger 13",
+      "price": 5156,
+      "rating": 0.42,
+      "discount": 1,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 2",
+      "price": 3107,
+      "rating": 4.76,
+      "discount": 54,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 3",
+      "price": 786,
+      "rating": 4.73,
+      "discount": 14,
+      "availability": "yes"
+    },
+    {
+      "productName": "Tablet 4",
+      "price": 9526,
+      "rating": 3.96,
+      "discount": 76,
+      "availability": "yes"
+    },
+    {
+      "productName": "Tablet 8",
+      "price": 3552,
+      "rating": 3.82,
+      "discount": 46,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 1",
+      "price": 9204,
+      "rating": 2.76,
+      "discount": 53,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 6",
+      "price": 3836,
+      "rating": 2.74,
+      "discount": 97,
+      "availability": "yes"
+    },
+    {
+      "productName": "Tablet 2",
+      "price": 3321,
+      "rating": 2.64,
+      "discount": 52,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 8",
+      "price": 9741,
+      "rating": 2.13,
+      "discount": 68,
+      "availability": "yes"
+    },
+    {
+      "productName": "Tablet 7",
+      "price": 234,
+      "rating": 1.99,
+      "discount": 46,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 13",
+      "price": 9392,
+      "rating": 1.89,
+      "discount": 4,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 2",
+      "price": 6443,
+      "rating": 1.49,
+      "discount": 78,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 5",
+      "price": 8625,
+      "rating": 1.48,
+      "discount": 77,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 3",
+      "price": 3525,
+      "rating": 1.41,
+      "discount": 92,
+      "availability": "yes"
+    },
+    {
+      "productName": "Tablet 13",
+      "price": 9504,
+      "rating": 1.38,
+      "discount": 82,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Tablet 5",
+      "price": 609,
+      "rating": 1.03,
+      "discount": 92,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 15",
+      "price": 9888,
+      "rating": 4.91,
+      "discount": 1,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 10",
+      "price": 6882,
+      "rating": 4.84,
+      "discount": 39,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "PC 9",
+      "price": 8894,
+      "rating": 4.41,
+      "discount": 86,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "PC 2",
+      "price": 5255,
+      "rating": 4.4,
+      "discount": 65,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 1",
+      "price": 7005,
+      "rating": 3.81,
+      "discount": 14,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "PC 7",
+      "price": 4432,
+      "rating": 3.65,
+      "discount": 53,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 10",
+      "price": 1411,
+      "rating": 3.61,
+      "discount": 70,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 2",
+      "price": 1925,
+      "rating": 3.25,
+      "discount": 59,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 6",
+      "price": 3016,
+      "rating": 2.92,
+      "discount": 63,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "PC 2",
+      "price": 1100,
+      "rating": 2.31,
+      "discount": 60,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 8",
+      "price": 1113,
+      "rating": 1.52,
+      "discount": 37,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "PC 5",
+      "price": 722,
+      "rating": 1.25,
+      "discount": 96,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "PC 14",
+      "price": 5024,
+      "rating": 0.76,
+      "discount": 43,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "PC 3",
+      "price": 6580,
+      "rating": 0.52,
+      "discount": 46,
+      "availability": "yes"
+    },
+    {
+      "productName": "PC 2",
+      "price": 6621,
+      "rating": 0.3,
+      "discount": 50,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 3",
+      "price": 9102,
+      "rating": 4.73,
+      "discount": 98,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 14",
+      "price": 9254,
+      "rating": 4.62,
+      "discount": 56,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 1",
+      "price": 8521,
+      "rating": 4.62,
+      "discount": 91,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 11",
+      "price": 5683,
+      "rating": 4.45,
+      "discount": 56,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 1",
+      "price": 1059,
+      "rating": 4.36,
+      "discount": 21,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 9",
+      "price": 1742,
+      "rating": 3.73,
+      "discount": 39,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 1",
+      "price": 2236,
+      "rating": 3.7,
+      "discount": 63,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 13",
+      "price": 8686,
+      "rating": 3.02,
+      "discount": 24,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 10",
+      "price": 7145,
+      "rating": 2.69,
+      "discount": 15,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 10",
+      "price": 4101,
+      "rating": 2.29,
+      "discount": 37,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 11",
+      "price": 2652,
+      "rating": 2,
+      "discount": 70,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 13",
+      "price": 1244,
+      "rating": 1.94,
+      "discount": 45,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 8",
+      "price": 511,
+      "rating": 1.06,
+      "discount": 87,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 4",
+      "price": 1258,
+      "rating": 1,
+      "discount": 33,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 5",
+      "price": 7980,
+      "rating": 0.83,
+      "discount": 89,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 2",
+      "price": 6002,
+      "rating": 4.79,
+      "discount": 6,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 8",
+      "price": 6071,
+      "rating": 4.5,
+      "discount": 28,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 10",
+      "price": 1489,
+      "rating": 4.2,
+      "discount": 35,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 7",
+      "price": 2347,
+      "rating": 3.85,
+      "discount": 98,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Headset 7",
+      "price": 5025,
+      "rating": 2.63,
+      "discount": 38,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Headset 3",
+      "price": 7308,
+      "rating": 2.45,
+      "discount": 42,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Headset 2",
+      "price": 7622,
+      "rating": 2.17,
+      "discount": 94,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 5",
+      "price": 5281,
+      "rating": 2.16,
+      "discount": 94,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 10",
+      "price": 1556,
+      "rating": 1.89,
+      "discount": 55,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 4",
+      "price": 1645,
+      "rating": 1.88,
+      "discount": 96,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Headset 13",
+      "price": 4186,
+      "rating": 1.71,
+      "discount": 44,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Headset 3",
+      "price": 6199,
+      "rating": 1.66,
+      "discount": 55,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 4",
+      "price": 4838,
+      "rating": 0.77,
+      "discount": 13,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 11",
+      "price": 2738,
+      "rating": 0.32,
+      "discount": 61,
+      "availability": "yes"
+    },
+    {
+      "productName": "Headset 13",
+      "price": 4596,
+      "rating": 0.16,
+      "discount": 87,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 14",
+      "price": 6470,
+      "rating": 4.73,
+      "discount": 16,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 1",
+      "price": 2776,
+      "rating": 4.7,
+      "discount": 87,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Speaker 11",
+      "price": 8982,
+      "rating": 3.4,
+      "discount": 52,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Speaker 14",
+      "price": 5129,
+      "rating": 3.19,
+      "discount": 67,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 15",
+      "price": 7548,
+      "rating": 3.17,
+      "discount": 45,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Speaker 10",
+      "price": 1766,
+      "rating": 3.1,
+      "discount": 49,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 7",
+      "price": 7257,
+      "rating": 2.28,
+      "discount": 95,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Speaker 4",
+      "price": 3439,
+      "rating": 1.91,
+      "discount": 10,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 4",
+      "price": 3076,
+      "rating": 1.67,
+      "discount": 50,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Speaker 11",
+      "price": 2604,
+      "rating": 1.66,
+      "discount": 91,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Speaker 10",
+      "price": 2741,
+      "rating": 1.55,
+      "discount": 63,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 1",
+      "price": 6383,
+      "rating": 1.18,
+      "discount": 14,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 9",
+      "price": 1058,
+      "rating": 0.93,
+      "discount": 73,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Speaker 10",
+      "price": 1221,
+      "rating": 0.26,
+      "discount": 84,
+      "availability": "yes"
+    },
+    {
+      "productName": "Speaker 12",
+      "price": 7132,
+      "rating": 0.17,
+      "discount": 64,
+      "availability": "yes"
+    },
+    {
+      "productName": "Remote 2",
+      "price": 6286,
+      "rating": 4.85,
+      "discount": 45,
+      "availability": "yes"
+    },
+    {
+      "productName": "Remote 12",
+      "price": 3958,
+      "rating": 4.7,
+      "discount": 15,
+      "availability": "yes"
+    },
+    {
+      "productName": "Remote 14",
+      "price": 2630,
+      "rating": 4.33,
+      "discount": 0,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 15",
+      "price": 4991,
+      "rating": 4.02,
+      "discount": 50,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 1",
+      "price": 1105,
+      "rating": 3.93,
+      "discount": 3,
+      "availability": "yes"
+    },
+    {
+      "productName": "Remote 10",
+      "price": 4967,
+      "rating": 3.21,
+      "discount": 50,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 13",
+      "price": 9960,
+      "rating": 3.04,
+      "discount": 3,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 2",
+      "price": 7659,
+      "rating": 2.94,
+      "discount": 4,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 10",
+      "price": 8724,
+      "rating": 2.75,
+      "discount": 85,
+      "availability": "yes"
+    },
+    {
+      "productName": "Remote 2",
+      "price": 9357,
+      "rating": 2.61,
+      "discount": 51,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 1",
+      "price": 8202,
+      "rating": 1.63,
+      "discount": 52,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 5",
+      "price": 4619,
+      "rating": 0.73,
+      "discount": 29,
+      "availability": "yes"
+    },
+    {
+      "productName": "Remote 7",
+      "price": 3791,
+      "rating": 0.56,
+      "discount": 64,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Remote 9",
+      "price": 5752,
+      "rating": 0.5,
+      "discount": 65,
+      "availability": "yes"
+    },
+    {
+      "productName": "Remote 9",
+      "price": 2483,
+      "rating": 0.32,
+      "discount": 89,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Pendrive 6",
+      "price": 336,
+      "rating": 4.85,
+      "discount": 94,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Pendrive 5",
+      "price": 370,
+      "rating": 4.76,
+      "discount": 77,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 2",
+      "price": 5388,
+      "rating": 4.75,
+      "discount": 90,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 12",
+      "price": 1083,
+      "rating": 4.04,
+      "discount": 35,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 12",
+      "price": 8767,
+      "rating": 4.02,
+      "discount": 73,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 10",
+      "price": 7424,
+      "rating": 3.32,
+      "discount": 34,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Pendrive 3",
+      "price": 9161,
+      "rating": 3.13,
+      "discount": 5,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 10",
+      "price": 6365,
+      "rating": 3.13,
+      "discount": 71,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 7",
+      "price": 3650,
+      "rating": 2.24,
+      "discount": 62,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 5",
+      "price": 4549,
+      "rating": 2.13,
+      "discount": 7,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 15",
+      "price": 3850,
+      "rating": 1.94,
+      "discount": 58,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 1",
+      "price": 7616,
+      "rating": 1.89,
+      "discount": 46,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 10",
+      "price": 2489,
+      "rating": 1.6,
+      "discount": 23,
+      "availability": "yes"
+    },
+    {
+      "productName": "Pendrive 6",
+      "price": 8010,
+      "rating": 1.29,
+      "discount": 47,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Pendrive 2",
+      "price": 7593,
+      "rating": 1.26,
+      "discount": 70,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Earphone 14",
+      "price": 1245,
+      "rating": 4.8,
+      "discount": 50,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 15",
+      "price": 6402,
+      "rating": 4.71,
+      "discount": 52,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Earphone 12",
+      "price": 6672,
+      "rating": 4.54,
+      "discount": 19,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Earphone 14",
+      "price": 3843,
+      "rating": 4.32,
+      "discount": 74,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 7",
+      "price": 6923,
+      "rating": 4.28,
+      "discount": 98,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Earphone 2",
+      "price": 4554,
+      "rating": 4.22,
+      "discount": 33,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 2",
+      "price": 6408,
+      "rating": 3.71,
+      "discount": 0,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 15",
+      "price": 906,
+      "rating": 3.63,
+      "discount": 83,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Earphone 14",
+      "price": 8465,
+      "rating": 3.2,
+      "discount": 28,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Earphone 15",
+      "price": 6948,
+      "rating": 2.49,
+      "discount": 11,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 10",
+      "price": 671,
+      "rating": 1.4,
+      "discount": 64,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 10",
+      "price": 5724,
+      "rating": 1.38,
+      "discount": 60,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Earphone 10",
+      "price": 626,
+      "rating": 0.43,
+      "discount": 18,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 3",
+      "price": 7995,
+      "rating": 0.38,
+      "discount": 16,
+      "availability": "yes"
+    },
+    {
+      "productName": "Earphone 12",
+      "price": 9959,
+      "rating": 0.31,
+      "discount": 4,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 12",
+      "price": 6992,
+      "rating": 4.53,
+      "discount": 85,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 8",
+      "price": 7237,
+      "rating": 4.24,
+      "discount": 75,
+      "availability": "yes"
+    },
+    {
+      "productName": "TV 15",
+      "price": 8266,
+      "rating": 4.19,
+      "discount": 30,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 2",
+      "price": 9483,
+      "rating": 4,
+      "discount": 14,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 7",
+      "price": 5011,
+      "rating": 3.71,
+      "discount": 28,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 4",
+      "price": 3682,
+      "rating": 3.67,
+      "discount": 2,
+      "availability": "yes"
+    },
+    {
+      "productName": "TV 14",
+      "price": 1271,
+      "rating": 3.57,
+      "discount": 81,
+      "availability": "yes"
+    },
+    {
+      "productName": "TV 10",
+      "price": 6915,
+      "rating": 3.27,
+      "discount": 23,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 13",
+      "price": 7906,
+      "rating": 2.7,
+      "discount": 93,
+      "availability": "yes"
+    },
+    {
+      "productName": "TV 1",
+      "price": 531,
+      "rating": 2.21,
+      "discount": 6,
+      "availability": "yes"
+    },
+    {
+      "productName": "TV 14",
+      "price": 6615,
+      "rating": 1.61,
+      "discount": 68,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 4",
+      "price": 9585,
+      "rating": 1.09,
+      "discount": 92,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 7",
+      "price": 7586,
+      "rating": 0.34,
+      "discount": 46,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 14",
+      "price": 3350,
+      "rating": 0.1,
+      "discount": 9,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "TV 14",
+      "price": 7518,
+      "rating": 0.01,
+      "discount": 93,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 15",
+      "price": 1918,
+      "rating": 4.23,
+      "discount": 91,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 10",
+      "price": 3092,
+      "rating": 3.2,
+      "discount": 75,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 11",
+      "price": 3884,
+      "rating": 2.91,
+      "discount": 23,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 2",
+      "price": 7094,
+      "rating": 2.85,
+      "discount": 43,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 6",
+      "price": 1555,
+      "rating": 2.59,
+      "discount": 41,
+      "availability": "yes"
+    },
+    {
+      "productName": "Computer 12",
+      "price": 6971,
+      "rating": 2.57,
+      "discount": 27,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 3",
+      "price": 3764,
+      "rating": 2.55,
+      "discount": 74,
+      "availability": "yes"
+    },
+    {
+      "productName": "Computer 4",
+      "price": 2527,
+      "rating": 1.91,
+      "discount": 41,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 12",
+      "price": 381,
+      "rating": 1.59,
+      "discount": 56,
+      "availability": "yes"
+    },
+    {
+      "productName": "Computer 9",
+      "price": 3857,
+      "rating": 0.95,
+      "discount": 71,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 7",
+      "price": 4535,
+      "rating": 0.86,
+      "discount": 66,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 7",
+      "price": 121,
+      "rating": 0.81,
+      "discount": 36,
+      "availability": "yes"
+    },
+    {
+      "productName": "Computer 11",
+      "price": 4250,
+      "rating": 0.7,
+      "discount": 55,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 7",
+      "price": 9434,
+      "rating": 0.58,
+      "discount": 99,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Computer 9",
+      "price": 8608,
+      "rating": 0.01,
+      "discount": 31,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 1",
+      "price": 4931,
+      "rating": 4.7,
+      "discount": 67,
+      "availability": "yes"
+    },
+    {
+      "productName": "Phone 4",
+      "price": 2139,
+      "rating": 4.69,
+      "discount": 64,
+      "availability": "yes"
+    },
+    {
+      "productName": "Phone 12",
+      "price": 5495,
+      "rating": 4.36,
+      "discount": 38,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 4",
+      "price": 5906,
+      "rating": 3.97,
+      "discount": 79,
+      "availability": "yes"
+    },
+    {
+      "productName": "Phone 1",
+      "price": 9013,
+      "rating": 3.67,
+      "discount": 72,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 7",
+      "price": 1184,
+      "rating": 1.99,
+      "discount": 62,
+      "availability": "yes"
+    },
+    {
+      "productName": "Phone 11",
+      "price": 9217,
+      "rating": 1.81,
+      "discount": 54,
+      "availability": "yes"
+    },
+    {
+      "productName": "Phone 14",
+      "price": 8598,
+      "rating": 1.65,
+      "discount": 40,
+      "availability": "yes"
+    },
+    {
+      "productName": "Phone 7",
+      "price": 1951,
+      "rating": 1.28,
+      "discount": 14,
+      "availability": "yes"
+    },
+    {
+      "productName": "Phone 11",
+      "price": 6562,
+      "rating": 1.23,
+      "discount": 26,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 12",
+      "price": 3812,
+      "rating": 1.04,
+      "discount": 9,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 4",
+      "price": 7009,
+      "rating": 0.75,
+      "discount": 98,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 7",
+      "price": 4065,
+      "rating": 0.73,
+      "discount": 3,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 10",
+      "price": 561,
+      "rating": 0.67,
+      "discount": 32,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Phone 13",
+      "price": 4794,
+      "rating": 0.35,
+      "discount": 34,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 11",
+      "price": 2652,
+      "rating": 4.92,
+      "discount": 70,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 10",
+      "price": 4101,
+      "rating": 4.68,
+      "discount": 37,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 13",
+      "price": 1244,
+      "rating": 3.93,
+      "discount": 45,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 4",
+      "price": 1258,
+      "rating": 3.89,
+      "discount": 33,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 3",
+      "price": 9102,
+      "rating": 3.86,
+      "discount": 98,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 11",
+      "price": 5683,
+      "rating": 3.81,
+      "discount": 56,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 9",
+      "price": 1742,
+      "rating": 3.38,
+      "discount": 39,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 5",
+      "price": 7980,
+      "rating": 1.98,
+      "discount": 89,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 1",
+      "price": 8521,
+      "rating": 1.91,
+      "discount": 91,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 8",
+      "price": 511,
+      "rating": 1.82,
+      "discount": 87,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 13",
+      "price": 8686,
+      "rating": 1.63,
+      "discount": 24,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 1",
+      "price": 1059,
+      "rating": 1.28,
+      "discount": 21,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 1",
+      "price": 2236,
+      "rating": 1.08,
+      "discount": 63,
+      "availability": "yes"
+    },
+    {
+      "productName": "Laptop 14",
+      "price": 9254,
+      "rating": 1.08,
+      "discount": 56,
+      "availability": "out-of-stock"
+    },
+    {
+      "productName": "Laptop 10",
+      "price": 7145,
+      "rating": 0.68,
+      "discount": 15,
+      "availability": "out-of-stock"
+    }
+  ]
+  
+  
